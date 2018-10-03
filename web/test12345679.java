@@ -9,5 +9,5 @@
  * @author Philip Mayer
  */
 public class test12345679 {
-    
+    system.out.println("Hallo");
 }
