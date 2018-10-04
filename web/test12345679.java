@@ -11,11 +11,3 @@ import static java.time.Clock.system;
  *
  * @author Philip Mayer
  */
-public class test12345679 {
-    int i = 1;
-    int k = 2;
-    
-    message.show();
-    
-    
-}
